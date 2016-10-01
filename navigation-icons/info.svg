@@ -1,0 +1,6 @@
+<!DOCTYPE svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10">
+ <circle stroke="none" fill="#fff" cx="5" cy="2.25" r="2.25"/>
+ <path   stroke="none" fill="#fff"
+  d="M 9.11,7.75 C 8.24,9.1 6.73,10 5,10 3.27,10 1.76,9.1 0.89,7.75 1.76,6.4 3.27,5.5 5,5.5 6.73,5.5 8.24,6.4 9.11,7.75 Z M 9.11,7.75"/>
+</svg>

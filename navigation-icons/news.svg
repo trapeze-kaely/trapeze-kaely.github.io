@@ -1,0 +1,5 @@
+<!DOCTYPE svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10">
+ <path stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="#fff" 
+  d="M 0.5,0.5 L 0.5,8.5 5,9.5 9.5,8.5 9.5,0.5 5,1.5 0.5,0.5 Z M 0.5,0.5"/>
+</svg>

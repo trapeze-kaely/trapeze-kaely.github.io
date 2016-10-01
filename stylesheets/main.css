@@ -1,0 +1,114 @@
+body {
+
+ width: 1280px;
+
+}
+
+#main {
+
+ margin-bottom: 90px;
+
+}
+
+.box {
+
+ width: 896px;
+
+}
+
+.box img, .box h2, .box p {
+
+ margin: 0 calc((100% - 150px) / 12);
+
+}
+
+.box img {
+
+ margin-top: 60px;
+ margin-bottom: 30px;
+ width: 45px;
+
+ opacity: 0.875;
+
+}
+
+.box h2, p {
+
+ font-size: 26px;
+ font-family: -apple-system, BlinkMacSystemFont;
+ color: #eee;
+
+}
+
+.box h2 {
+
+ margin-top: 30px;
+
+}
+
+.box p {
+
+ margin-bottom: 30px;
+
+}
+
+.wide img, .wide iframe {
+
+ width: 100%;
+
+}
+
+.wide iframe {
+
+ height: 56.5vw;
+
+}
+
+/*            *
+ * transition *
+ *            */
+
+.box a {
+
+ transition: 0.5s ease;
+ color: #85f;
+
+}
+
+.box a:hover {
+
+ transition: 0.25s ease;
+ color: #f58;
+
+}
+
+/*            *
+ * responsive *
+ *            */
+
+@media (min-width: 1281px) {
+
+ .wide iframe {
+
+  height: 720px;
+
+ }
+}
+
+@media (max-width: 1280px) {
+
+ body {
+
+  width: 100%;
+
+ }
+}
+
+@media (max-width: 896px) {
+
+ .box {
+
+  width: 100%;
+
+ }
+}

@@ -1,0 +1,29 @@
+* {
+
+ margin: auto;
+
+}
+
+div {
+
+ font-size: 0;
+
+}
+
+h1, h2, h3, h4, h5, h6, p {
+
+ -webkit-font-smoothing: antialiased;
+
+}
+
+.unselectable, h1::selection, h2::selection, h3::selection, h4::selection, h5::selection, h6::selection, p::selection {
+
+ -webkit-user-select: none;
+
+}
+
+a {
+
+ text-decoration: none;
+
+}

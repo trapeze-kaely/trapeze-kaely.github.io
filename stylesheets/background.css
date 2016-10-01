@@ -1,0 +1,15 @@
+html {
+
+ min-height: 100%;
+
+}
+
+body {
+
+ background-color: #80f;
+ background-position: center;
+ background-size: cover;
+ background-image: url(data:image;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBAD);
+ background-repeat: no-repeat;
+
+}
